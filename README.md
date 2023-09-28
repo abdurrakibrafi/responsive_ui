@@ -1,6 +1,11 @@
-# responsive_ui
+# responsive_ui_profile
 
-A new Flutter project.
+# Output Below-
+<p><img src="assets/one.png" width=250px hspace="10">
+<img src="assets/two.png" width=550px hspace="10" >
+</p>
+
+
 
 ## Getting Started
 
