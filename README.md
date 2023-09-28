@@ -1,7 +1,7 @@
 # responsive_ui_profile
 
 # Output Below-
-<p><img src="assets/one.png" width=250px hspace="10">
+<p><img src="assets/one number.png" width=270px hspace="10">
 <img src="assets/two.png" width=550px hspace="10" >
 </p>
 
