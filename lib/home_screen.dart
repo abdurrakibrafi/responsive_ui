@@ -40,7 +40,7 @@ class HomeScreen extends StatelessWidget {
               child: Padding(
                 padding: const EdgeInsets.all(8.0),
                 child: Container(
-                  width: 100,
+                  width: isPortrait ? 200 : 100,
                   child: CircleAvatar(
                     maxRadius: MediaQuery.of(context).size.width / 4,
                     backgroundImage: AssetImage('assets/me.jpg'),
